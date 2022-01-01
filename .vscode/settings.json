@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.w": "rust",
+    "*.wproj": "json"
+  }
+}
